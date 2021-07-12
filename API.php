@@ -2,7 +2,7 @@
 
 class mrr {
 	//Root URI for the api
-	public $root_uri = "https://www.miningrigrentalse.com/api/v2";
+	public $root_uri = "https://www.miningrigrentals.com/api/v2";
 	
 	public $decode = true;
 	public $pretty = false;
