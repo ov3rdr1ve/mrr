@@ -1,3 +1,5 @@
+<?php
+
 $parms = array(
 	"rig"=>196918,
 	"length"=>24,
@@ -11,3 +13,5 @@ $parms = array(
 	//"profile"=>152427,
 	
 );
+
+?>
