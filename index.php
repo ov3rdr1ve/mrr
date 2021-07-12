@@ -1,7 +1,7 @@
 <?php
 
 $parms = array(
-	"rig"=>196917,
+	"rig"=>196918,
 	"length"=>24,
 	"rate"=>array(
 		"type"=>"mh",
