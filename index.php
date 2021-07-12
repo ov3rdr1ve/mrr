@@ -1,5 +1,4 @@
-$parms = array(
-	"rig"=>196918,
+"rig"=>196918,
 	"length"=>24,
 	"rate"=>array(
 		"type"=>"mh",
@@ -9,5 +8,4 @@ $parms = array(
 	"profile"=>142727,
 	//"profile"=>149532,
 	//"profile"=>152427,
-	
-);
+
